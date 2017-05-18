@@ -15,7 +15,7 @@ output: html_notebook
 
 - Abre el archivo "Dardos.nb.html" que se generó,
 - Enjoy...
-- Comparte el nootebook: https://github.com/lahgzz/data4rh
+- Comparte el nootebook: https://github.com/lahgzz/data4rh/tree/master/learning/dardos
 
 
 ```{r, include=FALSE}
