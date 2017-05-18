@@ -19,7 +19,7 @@ output: html_notebook
 
 
 ```{r, include=FALSE}
-# libs
+# libs... instalar antes de la primera corrida 
 library(tidyr)
 library(dplyr)
 library(ggplot2)
