@@ -4,7 +4,8 @@ output: html_notebook
 ---
 
 # instrucciones:
-- Descarga la carpeta "Dardos",
+- Entra acá: https://github.com/lahgzz/data4rh/tree/master/learning/dardos
+- Descarga el contenido de la carpeta "Dardos",
 - Usa el archivo "Dardos.csv" dentro de la carpeta data para relevar el puntaje, guarda y cierralo,
 - Abre el archivo "Dardos.Rmd",
 - Dale "Run" > "Run All":  
