@@ -1,2 +1,2 @@
 # data4rh
-capacitaciones
+data4rh learning github repo
